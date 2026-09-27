@@ -104,7 +104,7 @@ This lab complements the theory course in Object‑Oriented Programming and buil
 
 | Component | Marks | Frequency | CO(s) Assessed |
 |---|:---:|---|---|
-| Continuous Evaluation (Lab Tests) | 15 | 15 tests, 1 mark each, best-effort average scaled to 15 | CO1–CO5 |
+| Continuous Evaluation (Lab Tests / Codeforces Rating) | 15 | 15 tests, 1 mark each, best-effort average scaled to 15 | CO1–CO5 |
 | Attendance | 10 | Every session | — |
 | Quiz | 5 | 1–2 short quizzes during the term | CO1–CO3 |
 | Final Project | 10 | Once, weeks 12–15 | CO5 |
