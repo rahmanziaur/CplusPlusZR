@@ -94,7 +94,8 @@ So far, all the work in this repository has been done by me.
 
 Thank you for visiting this repository and happy coding!
 
-## LinkedIn 
+## LinkedIn
+
 <a href="https://www.linkedin.com/in/ziaiut/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
