@@ -25,9 +25,9 @@ Complete all steps below **before** the first lab session. You will demonstrate 
    [📺 How to Create a GitHub Repository](https://www.youtube.com/watch?v=SgZhE40BvC4)
 
 4. **Install GitHub Desktop** within your Ubuntu OS and log in with your GitHub credentials.
-   [📺 A Beginner's Guide to Installing GitHub Desktop on Ubuntu](https://www.youtube.com/watch?v=Foqs70mT2yc)
+[📺 How to install a Desktop GitHub on Linux](https://linuxcapable.com/how-to-install-github-desktop-on-ubuntu-linux/)
 
-5. **Write and run your first program.** Open VS Code in Ubuntu, copy-paste the program below, and run it. Once it works, push the file (`helloworld.cpp`) to your repository using Git from the terminal.
+6. **Write and run your first program.** Open VS Code in Ubuntu, copy-paste the program below, and run it. Once it works, push the file (`helloworld.cpp`) to your repository using Git from the terminal.
 
    ```cpp
    #include <iostream>
