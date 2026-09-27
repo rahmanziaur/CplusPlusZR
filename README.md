@@ -9,9 +9,6 @@
 | **Course Teacher** | Dr. Ziaur Rahman ([rahmanziaur.github.io](https://rahmanziaur.github.io/)) |
 | **Class Schedule** | Saturday, 10:00 AM – 11:50 AM (weekly, single practice session) |
 | **Total Sessions** | 15 |
-
-> **Note on dates:** "Sep 31" does not exist on the calendar. It has been corrected to **Saturday, Sep 26, 2026**, which keeps the weekly Saturday pattern consistent with every other date supplied (verified below). Two 2‑week gaps (Oct 24 → Nov 7, and Dec 19 → Jan 2) are treated as scheduled breaks (mid‑semester/winter break).
-
 ---
 
 ## 0. Before the First Class — Setup Checklist
